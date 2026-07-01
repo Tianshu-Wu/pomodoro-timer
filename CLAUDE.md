@@ -49,5 +49,3 @@ pip install pystray pillow
 
 - Python 版：`pomodoro_config.json`（与脚本同目录），字段为 `durations`、`auto_switch`、`sessions`、`date`，按天重置番茄计数
 - Web 版：`localStorage` 键 `pomodoro-durations` 和 `pomodoro-autoSwitch`，番茄计数不跨 session 持久化
-
-
