@@ -28,18 +28,18 @@ except ImportError:
 # 配色方案（参考 pomodoro.html 暗色主题）
 # ═══════════════════════════════════════════════════
 COLORS = {
-    'bg':          '#1a1a2e',
-    'surface':     '#16213e',
-    'surface2':    '#0f3460',
-    'text':        '#eeeeee',
-    'text2':       '#aaaabb',
-    'ring_bg':     '#1e2a3a',
+    'bg':          '#f0f2f5',
+    'surface':     '#ffffff',
+    'surface2':    '#dce3ea',
+    'text':        '#2c3e50',
+    'text2':       '#7f8c9b',
+    'ring_bg':     '#e8ecf1',
     'work':        '#e74c3c',
-    'work_light':  '#ff6b6b',
+    'work_light':  '#c0392b',
     'short_break': '#2ecc71',
-    'short_light': '#51cf66',
+    'short_light': '#27ae60',
     'long_break':  '#3498db',
-    'long_light':  '#5c9ce6',
+    'long_light':  '#2980b9',
 }
 
 MODE_META = {
